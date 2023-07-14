@@ -26,6 +26,7 @@
 - **Python**
 - **Pandas**
 - **Jupyter Notebook**
+- **Matplotlib**
 
 <br/>
 
